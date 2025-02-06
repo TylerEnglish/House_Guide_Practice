@@ -1,0 +1,289 @@
+# ============================
+# Python Bytecode and Cache Files
+# ============================
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# ============================
+# Python Virtual Environment Directories
+# ============================
+venv/
+env/
+.venv/
+.virtualenv/
+.Python
+
+# ============================
+# Jupyter Notebook Checkpoints
+# ============================
+.ipynb_checkpoints/
+
+# ============================
+# Operating System Files
+# ============================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+.nfs*
+
+# ============================
+# Environment and Secrets Files
+# ============================
+.env
+.env.*
+*.ini
+*.cfg
+*.credentials
+.secret
+secrets/
+
+# ============================
+# Logs, Cache, and Temporary Files
+# ============================
+*.log
+*.tmp
+*.swp
+*.swo
+*.bak
+*.old
+*.retry
+*.stackdump
+*.temp
+*.pid
+*.seed
+*.orig
+*.history
+.cache/
+.temp/
+*.log.*
+*.pid.*
+*.tmp.*
+*.state
+*.dat
+
+# ============================
+# IDE, Editor, and Tool Settings
+# ============================
+# Common IDEs
+.idea/
+.vscode/
+*.sublime-*
+*.code-workspace
+*.iml
+*.directory
+*.metadata
+*.session
+nbproject/
+.project
+.classpath
+
+# Tool-specific settings
+*.codekit
+.minikube/
+.vagrant/
+.devcontainer/
+.terraform/
+.mvn/
+target/
+lib/
+
+# ============================
+# Build, Distribution, and Packaging
+# ============================
+build/
+dist/
+pip-wheel-metadata/
+*.egg-info/
+*.egg
+*.whl
+*.manifest
+*.spec
+*.buildpath
+*.project
+target/
+out/
+lib/
+
+# ============================
+# Sensitive and Security Files
+# ============================
+*.pem
+*.key
+*.crt
+*.der
+*.pfx
+*.p12
+*.csr
+*.enc
+*.asc
+*.gpg
+.key/
+*.kdbx
+
+# ============================
+# Test Results and Coverage Reports
+# ============================
+test-results/
+.coverage
+*.coverage
+*.cov
+.hypothesis/
+htmlcov/
+nosetests.xml
+coverage.xml
+*.prof
+.profraw
+*.lcov
+tests_output/
+
+# ============================
+# Auto-generated Documentation Files
+# ============================
+docs/_build/
+site/
+.mkdocs/
+
+# ============================
+# Binary, Object, and Compiled Files
+# ============================
+*.o
+*.obj
+*.so
+*.dll
+*.dylib
+*.a
+*.lib
+*.exe
+*.out
+*.app
+*.ipa
+*.msi
+*.msp
+*.msm
+
+# ============================
+# Machine Learning and Data Science Files
+# ============================
+*.h5
+*.hdf5
+*.onnx
+*.pb
+*.ckpt
+*.joblib
+*.pkl
+*.npy
+*.npz
+*.model
+*.weights
+*.tfrecord
+model/
+data/
+*.pth
+*.pt
+*.sav
+
+# ============================
+# JavaScript, Node.js, and Web Development Files
+# ============================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+package-lock.json
+yarn.lock
+.eslintcache
+.next/
+.nuxt/
+out/
+build/
+.cordova/
+.sass-cache/
+.parcel-cache/
+.idea/
+.coverage/
+*.min.js
+*.map
+*.bundle.js
+
+# ============================
+# Large Files and Archives
+# ============================
+*.largefile
+*.tar
+*.tar.gz
+*.zip
+*.7z
+*.gz
+*.xz
+*.bz2
+*.iso
+*.img
+*.bin
+*.sql
+*.dmp
+*.bak
+*.gzip
+
+# ============================
+# Specific Script Outputs and Generated Files
+# ============================
+output/
+*.out
+*.log
+*.results
+*.tmp
+*.backup
+*.dat
+
+# ============================
+# Temporary Files Created by Running Scripts
+# ============================
+*.run
+*.bak
+*.old
+*.temp
+*.temp.*
+
+# ============================
+# Other Backup, Merge, and Lock Files
+# ============================
+*~
+*.orig
+*.rej
+*.LOCK
+*.lock
+*.diff
+*.patch
+
+# ============================
+# Miscellaneous
+# ============================
+*.stackdump
+*.part
+*.crdownload
+*.kate-swp
+.parcel-cache/
+.cache-loader/
+.ph/
+thumbs.db
+
+# ============================
+# Large CSV/Excel Files (Manual Management Required)
+# ============================
+# Prevent committing large CSV/Excel files directly.
+*.csv
+*.xlsx
+*.xlsm
+
