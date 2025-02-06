@@ -1,0 +1,16 @@
+Model: rf
+  MAE: 2.03
+  R2: 0.89
+
+Model: gbr
+  MAE: 1.93
+  R2: 0.92
+
+Model: lr
+  MAE: 3.31
+  R2: 0.66
+
+Model: voting
+  MAE: 2.05
+  R2: 0.88
+

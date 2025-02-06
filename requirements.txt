@@ -4,4 +4,7 @@ pyarrow
 numpy
 matplotlib
 seaborn
-python-dotenv 
+scikit-learn
+joblib
+shap
+plotly
